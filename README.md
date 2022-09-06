@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirali Dourandish</h1>
-<h3 align="center">front end developer who is very interested in JavaScript technologies.</h3>
+<h3 align="center">Front end developer with 2 years of work experience at the age of 17 who is very interested in JavaScript technologies..</h3>
 
 <h4>Technologies:</h4>
 <div>
