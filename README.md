@@ -1,8 +1,8 @@
-<h1 align="center" style="color:#4f94ef">Hi 👋, I'm Peter Kimanzi</h1>
-<h3 align="center" style="color:#4f94ef">A multidisciplinary Full-Stack developer from Nairobi Kenya</h3>
+<h1 align="center">Hi 👋, I'm Peter Kimanzi</h1>
+<h3 align="center">A multidisciplinary Full-Stack developer from Nairobi Kenya</h3>
 </br>
 
-<h4 style="color:#4f94ef">Technologies:</h4>
+<h4>Technologies:</h4>
 <div>
 <img src="https://vuejs.org/images/logo.png"
  width="50px" height="50px"/>
@@ -13,7 +13,7 @@
  width="50px" height="50px"/>
 </div>
 <br>
-<hr style="color:#4f94ef">
+<hr>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmirxlix&show_icons=true&locale=en&layout=compact" alt="xmirxlix" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xmirxlix&show_icons=true&locale=en" alt="xmirxlix"/></p>
