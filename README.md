@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amirali Dourandish</h1>
 <h3 align="center">Front end developer with 2 years of work experience at the age of 17 who is very interested in JavaScript technologies</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/xmirxlix/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="amirali dourandish" height="45" width="45" /></a>
+</p>
+
 <h4>Technologies:</h4>
 <div>
 <img src="https://vuejs.org/images/logo.png"
