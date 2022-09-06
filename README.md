@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Peter Kimanzi</h1>
-<h3 align="center">A multidisciplinary Full-Stack developer from Nairobi Kenya</h3>
+<h1 align="center">Hi 👋, I'm Amirali Dourandish</h1>
+<h3 align="center">front end developer who is very interested in JavaScript technologies.</h3>
 
 <h4>Technologies:</h4>
 <div>
