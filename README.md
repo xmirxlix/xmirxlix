@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter Kimanzi</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from Nairobi Kenya</h3>
-<br>
-</br>
+
 <h4>Technologies:</h4>
 <div>
 <img src="https://vuejs.org/images/logo.png"
