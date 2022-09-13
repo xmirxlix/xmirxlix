@@ -21,9 +21,12 @@
 <br>
 <hr>
 <br>
-![](https://komarev.com/ghpvc/?username=xmirxlix&label=Views&color=116262)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmirxlix&show_icons=true&locale=en&layout=compact" alt="xmirxlix" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xmirxlix&" alt="xmirxlix" /></p>
+
 <br>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=xmirxlix&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xmirxlix&" alt="xmirxlix" /></p>
+![](https://komarev.com/ghpvc/?username=xmirxlix&label=Views&color=116262)
