@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmirxlix&show_icons=true&locale=en&layout=compact" alt="xmirxlix" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xmirxlix&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=4d8fac&text_color=967bb6&icon_color=ff2052&title_color=ff2052&custom_title=My%20Stat" alt="xmirxlix" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xmirxlix&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=4d8fac&text_color=967bb6&icon_color=ff2052&title_color=ff2052&custom_title=My%20Stats" alt="xmirxlix" /></p>
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=xmirxlix&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=4d8fac&text_color=967bb6&icon_color=ff2052&title_color=ff2052&custom_title=My%20Stats)
 
