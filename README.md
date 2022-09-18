@@ -3,7 +3,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://www.instagram.com/xmirxlix/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="amirali dourandish" height="45" width="45" /></a>
+<a href="https://twitter.com/XLip23358307" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561529/190902003-8ca0295d-ad95-4c69-bf16-c21e65202670.png" alt="amirali dourandish" height="45" width="45" /></a>
 </p>
 
 <h4>Technologies:</h4>
