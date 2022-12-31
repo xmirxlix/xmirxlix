@@ -8,9 +8,8 @@
 
 <h4>Technologies:</h4>
 <div>
-<img src="https://vuejs.org/images/logo.png"
- width="50px" height="50px"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png"
+
+ <img src="https://user-images.githubusercontent.com/102561529/210149531-0661dee2-8aee-48c1-ae1c-7578a183f84e.png"
  width="58px" height="50px"/>
  
 <img height="50px" src="https://user-images.githubusercontent.com/102561529/210149511-34b9b0f1-3256-4675-b500-b643988ed302.png" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"><img height="50px" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;">
